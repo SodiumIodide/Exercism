@@ -4,4 +4,4 @@ This is a repository of the Exercism problems that I've completed to date. I hig
 
 ## Languages Currently Included
 
-- Python: I have some experience with Python already, from a scientific computing and numerical modeling perspective. I find it to be a very simple and elegant language. I try to avoid using Python 2.7 as much as I can in the professional world, because I don't believe in living in the past, but sometimes that's all that's installed on a computational cluster somewhere.
+- __Python__: I have some experience with Python already, from a scientific computing and numerical modeling perspective. I find it to be a very simple and elegant language. I try to avoid using Python 2.7 as much as I can in the professional world, because I don't believe in living in the past, but sometimes that's all that's installed on a computational cluster somewhere.
