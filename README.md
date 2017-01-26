@@ -1,6 +1,6 @@
 # Exercism
 
-This is a repository of the Exercism problems that I've completed to date. I highly recommend [Exercism](http://exercism.io/) for programming language practice or for diving in to a new language, I'm having a lot of fun with the problems so far. Community feedback is always a welcome thing to have.
+This is a repository of the Exercism problems that I've completed to date. I highly recommend [Exercism](http://exercism.io/) for programming language practice or for diving in to a new language, I'm having a lot of fun with the problems so far. Community feedback is always a welcome thing to have, and the testing frameworks are providing valuable instruction on unit testing, which is something that I have very little experience with.
 
 ## Languages Currently Included
 
