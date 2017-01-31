@@ -6,7 +6,7 @@ import argparse
 
 def slices(inpstr, size):
     '''Return a "rolling" or "sliding" operator on input string'''
-    if size == 0 or size > len(inpstr):
+    if size <= 0 or size > len(inpstr):
         raise ValueError("Invalid size input")
     if not inpstr.isdigit():
         raise ValueError("Invalid string input")
